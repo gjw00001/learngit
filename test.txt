@@ -17,3 +17,8 @@ OSS-rl-201809281009
 git push -u origin master
 git clone git@github.com:gjw00001/learngit
 
+git merge --no-ff -m "merged bug fix 101" issue-101
+git branch -d issue-101
+
+git push origin master
+测试姓名
