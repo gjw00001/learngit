@@ -26,3 +26,8 @@ git push origin master
 30000/37000*3600/365
 30000/3700*360/365
 ddd
+
+12500/37000*8700/365-12500*0.02/365=7.36
+
+params.put("checkStatus", CHECK_STATUS.UNCHECKED);
+waybill.setCheckStatus(IConstants.Waybill.CHECK_STATUS.UNCHECKED);
