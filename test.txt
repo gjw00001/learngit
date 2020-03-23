@@ -31,3 +31,6 @@ ddd
 
 params.put("checkStatus", CHECK_STATUS.UNCHECKED);
 waybill.setCheckStatus(IConstants.Waybill.CHECK_STATUS.UNCHECKED);
+
+Git is distributed version control system.
+Git is free software.
