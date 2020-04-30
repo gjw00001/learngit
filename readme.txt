@@ -6,3 +6,5 @@ Git tracks changes of files.
 ttttt
 Creating a new branch is quick AND simple.
 Git is a free software...
+a commit
+b commit
